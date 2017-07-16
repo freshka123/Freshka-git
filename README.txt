@@ -1,2 +1,2 @@
- Hello ! This is my first Git repo
+ Hello ! GM  This is my first Git repo
 ......
